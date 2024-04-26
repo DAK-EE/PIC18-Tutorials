@@ -3,6 +3,8 @@ https://www.youtube.com/embed/vfWQTlpFnVw?si=I6sQifs7_UH8clgn
 # Step 1. Create a Project w/ MCC
 Create a new XC8 project for the Curiosity Nano, ensuring "open MCC when finished" is checked. Allow MCC to open, and click through any notifications.
 
+[![Step 1](images/step1.png)]
+
 # Step 2. Add the UART Module
 Under 'Device Resources' in the 'Resource Management' window there is a UART driver module, click the green plus sign to add it to the builder.
 
